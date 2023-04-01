@@ -1,0 +1,4 @@
+#!/usr/bin/with-contenv bash
+
+echo "\
+    ssmtp" >> /mod-repo-packages-to-install.list
